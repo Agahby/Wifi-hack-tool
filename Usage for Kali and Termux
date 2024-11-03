@@ -1,0 +1,35 @@
+To install on Kali:
+
+sudo apt-get update && apt-get install git
+
+git clone https://github.com/U7P4L-IN/WIFI-HACKING.git
+
+ls
+
+cd WIFI-HACKING
+
+ls
+
+sudo python3 WIFI.py
+
+To install Termux:
+apt update 
+ 
+apt install git 
+
+apt install python
+
+apt install python3
+ 
+apt install cmatrix
+
+rm -rf WIFI-HACKING
+
+git clone --depth=1 https://github.com/U7P4L-IN/WIFI-HACKING.git
+
+cd WIFI-HACKING
+
+ls
+
+ python WIFI.py
+(It is not stolen, it was edited and shared by me.)
